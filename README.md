@@ -1398,6 +1398,8 @@ Enter two images and the difference will show up below
 - [File Signature Database](https://www.filesignatures.net/) - Database of file type signatures and headers.
 - [VirusTotal](https://www.virustotal.com/) - Analyze suspicious files and URLs for malware (also in Malware section).
 - [Filesec.io](https://filesec.io/) - Latest file extension security threats and information.
+- [HostDeFi](https://hostdefi.com) - Free token-safety scanner: A+–F grades from on-chain checks (mint/freeze authority, liquidity depth, holder concentration, contract flags) across Solana and 8 EVM chains.
+
 <br>
 
 [⇧ Top](#index)
